@@ -1,0 +1,53 @@
+# CSE 310 - Sprint Time Log
+
+Name: Crystal Paulino
+
+Sprint #: 3
+
+## Instructions
+
+Record all CSE 310 work that you do either inside class or outside of class.  Include time learning, practicing, developing, testing, and documenting.  It is important to update this log every day.
+
+For the Category column, record one of the following:
+* IM - You are working on your Individual Module (Don't include Planning Meeting in class)
+* TP - You are working on your Team Project (include Team Project Work Days)
+* MTG - You are in one of the following class meetings: Planning, Stand-Up, Team Review, or Individual Review
+
+The expected minimum amount of time each Sprint for each category is as follows:
+
+|Categroy                       |Total Time (Hours:Minutes)|
+|-------------------------------|:------------------------:|
+|IM - Individual Module         |          10:00           |
+|TP - Team Project              |           4:00           |
+|MTG - Class Meetings           |           4:00           |
+|**TOTAL**                      |        **18:00**         |
+
+## Time Log
+
+|Date      |Start Time|Category|Description                                 |Total Minutes|
+|----------|----------|:------:|--------------------------------------------|:-----------:|
+|M 28th    |2pm       |MTG     |Planning Meeting                            |1 hour       |
+|M 28th    |3pm       |TP      |Planning for Sprint and creating tasks      |20min        |
+|M 30th    |2pm       |MTG     |Stand-up                                    |1 hour       |
+|J 2nd     |2pm       |TP      |Team Project Work Day                       |1 hour       |
+|J 4th     |2pm       |MTG     |Team Review Meeting                         |1 hour       |
+|J 3rd     |2pm       |TP      |Team meeting, exploring single recipes      |1 hour       |
+|J 3rd     |Approx 9pm|IM      |Creating files and learning the npm package |30 min       |
+|J 3rd     |4:50pm    |TP      |Css, media queries and instructions         |1h 40 min    |
+|J 5th     |3:40pm    |IM      |Connecting server (Node) with React         |1h 20 min    |
+|J 5th     |5:50pm    |IM      |Creating new files and structure            |30 min       |
+|J 6th     |11am      |IM      |Adding music                                |30 min       |
+|J 6th     |12:35pm   |IM      |Css, adding features and dividing playlists |1 hour       |
+|J 6th     |2pm       |MTG     |Individual Review                           |1 hour       |
+|J 7th     |6:15pm    |IM      |Adding features and finishing hours         |4h 10 min    |
+
+_Note: Add more rows as needed._
+
+## Sprint Totals
+
+|Categroy                       |Total Time (Hours:Minutes)|
+|-------------------------------|:------------------------:|
+|IM - Individual Module         |10 hours                  |
+|TP - Team Project              |4 hours                   |
+|MTG - Class Meetings           |4 hours                   |
+|**TOTAL**                      |18 hours                  |

@@ -1,0 +1,117 @@
+body {
+  text-align: center;
+  background-color: rgb(231, 227, 188);
+  margin: 0px;
+}
+
+header, footer{
+  background-color: rgba(71, 82, 185, 0.5);
+  height: 85px;
+  width: 100%;
+  align-content: center;
+  font-size: 1.5em;
+}
+
+footer{
+  font-size: small;
+  height: 50px;
+}
+
+.input{
+  height: 21px;
+  margin: 30px;
+  margin-top: 25px;
+  text-align: center;
+}
+
+.result ul{
+  color: white;
+  margin: 5px;
+}
+
+main{
+  background-image: url(C:\Users\Crystal\Downloads\webapps\music\public\chillone.png
+  );
+  height: 1000px;
+  
+}
+
+.trendband{
+  background-color: #f7f7f781;
+  padding: 10px;
+  margin: 0px;
+  margin-bottom: 40px;
+}
+
+.songs header{
+  background-image: -moz-linear-gradient();
+}
+
+.playlists{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  color: white;
+  text-shadow: black 5px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+p{
+  color: white;
+}
+
+ul{
+  padding: 0px;
+  margin: 10px;
+}
+
+button{
+  font-size: large;
+  width: 200px;
+}
+
+/* @keyframes rainbow {
+  0%   { background-color: rgb(219, 149, 149); }
+  20%  { background-color: rgb(206, 178, 126); }
+  40%  { background-color: rgba(194, 194, 126, 0.863); }
+  60%  { background-color: rgb(109, 177, 109); }
+  80%  { background-color: rgb(96, 118, 139); }
+  100% { background-color: rgb(221, 180, 221); }
+} */
+
+.random-button {
+  animation: rainbow 20s infinite alternate;
+  color: black;
+  border: 1px solid black;
+  padding: 10px;
+  box-shadow: 2px 2px 3px rgb(0, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
